@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.regular-class {
+  background-color: rgb(234, 167, 177);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cool-class {
+  font-size: 24px;
+}
+
+#number-2 {
+  color: rgb(21, 21, 220);
+  font-size: 36px;
+}
+
+#number-4 {
+  background-color: rgb(93, 241, 152);
+  font-weight: bold;
+}
